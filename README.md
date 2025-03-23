@@ -1,3 +1,7 @@
+# You're Not Crazy
+
+A validation and grounding tool for self-trust.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
